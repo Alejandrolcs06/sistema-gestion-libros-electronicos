@@ -32,7 +32,7 @@ El sistema permitir√° registrar usuarios y libros, organizar libros por categor√
 
 - `documentacion`: documentos relacionados con el proyecto.
 - `diagramas`: diagramas de la estructura del sistema.
-- `presentacion`: material utilizado para el video explicativo.
+
 
 ## Autor
 
